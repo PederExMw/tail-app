@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.table {
+  width: 1200px;
+  background-color: gainsboro;
+  height: 600px;
+  border-collapse: collapse;
+  margin-left: 300px;
+  margin-top: 20px;
+}
